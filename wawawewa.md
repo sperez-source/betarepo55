@@ -1,10 +1,50 @@
-# Wawawewa
+# Hello World in Various Languages
 
-This is a new Markdown file created via GitHub API on the `borat` branch of `sperez-source/betarepo55`.
+**Wawawewa!** This file now contains classic Hello World code examples. Very nice!
 
-**Borat quote:** "Wawawewa! Very nice!"
+## Python
 
-- Item 1
-- Item 2
+```python
+print("Hello, World!")
+```
 
-*Created on 2026-05-05*
+## JavaScript (Node.js)
+
+```javascript
+console.log("Hello, World!");
+```
+
+## C
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+## Java
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+## Go
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+*Updated on 2026-05-05 via GitHub API on branch `borat` of `sperez-source/betarepo55`*
